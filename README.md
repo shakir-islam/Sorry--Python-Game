@@ -21,4 +21,6 @@ Technologies Used
 How to Run
 - Copy or download the repo
 - Run the script:
+   python sorry_game.py
+
  
