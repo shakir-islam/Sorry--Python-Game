@@ -1,10 +1,10 @@
 # Sorry--Python-Game
-This was a foundational Python project built early in my CS journey to explore logic, design thinking, and user interaction in a turn-based game.
-This is a Python-based, console version of the classic board game **"Sorry!"**, built as a group project for an engineering class at Texas A&M.
+This project was created as part of a group assignment in Texas A&M’s ENGR 102 course. 
+Our team was assigned the game "Sorry!" and tasked with implementing a working version using Python.
 
 #The Features of the Game
 - Up to 4 players can play at once
-- It's turn based
+- It's turn-based
 - Board visualized directly in the terminal
 - Save/load functionality via text files
 - Built-in instructions and menu navigation
