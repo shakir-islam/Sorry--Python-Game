@@ -1,6 +1,8 @@
 # Sorry--Python-Game
 This project was created as part of a group assignment in Texas A&M’s ENGR 102 course. 
-Our team was assigned the game "Sorry!" and tasked with implementing a working version using Python.
+Our team decided to create the game "Sorry!" and was tasked with implementing a working version using Python.
+
+Personally contributed to the card draw system, movement logic, and game flow.
 
 #The Features of the Game
 - Up to 4 players can play at once
